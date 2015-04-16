@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Indicators>
+	<Indicator id = "速动比率">
+		<Statement id = "balancesheet">流动资产合计</Statement>
+		<Statement id = "balancesheet">存货</Statement>
+	</Indicator>
+	<Indicator id = "流动比率">
+		<Statement id = "balancesheet">流动资产合计</Statement>
+		<Statement id = "balancesheet">流动负债合计</Statement>
+	</Indicator>
+	<Indicator id = "资产负债率">
+		<Statement id = "balancesheet">负债合计</Statement>
+		<Statement id = "balancesheet">资产总计</Statement>
+	</Indicator>
+</Indicators>

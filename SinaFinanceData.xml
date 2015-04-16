@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Statements>
+	<Statement id="BalanceSheet">
+		<attribute>流动资产合计</attribute>
+		<attribute>流动负债合计</attribute>
+		<attribute>资产总计</attribute>
+		<attribute>负债合计</attribute>
+		<attribute>应收账款</attribute>
+		<attribute>存货</attribute>
+	</Statement>
+	<Statement id="CashFlow">
+	</Statement>
+	<Statement id="ProfitStatement">
+		<attribute>营业成本</attribute>
+		<attribute>营业收入</attribute>
+		<attribute>净利润</attribute>
+	</Statement>
+</Statements>
